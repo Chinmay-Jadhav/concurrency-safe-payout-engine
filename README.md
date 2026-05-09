@@ -1,4 +1,4 @@
-# Playto Payout Engine
+# Concurrency Safe Payout Engine
 
 A minimal payout engine for Indian merchants collecting international payments.
 Handles balance tracking, payout requests, concurrency, idempotency, and 
